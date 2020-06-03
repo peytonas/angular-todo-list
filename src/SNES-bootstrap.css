@@ -15,10 +15,10 @@
   --primary: #b5b6e4;
   --secondary: #908a99;
   --success: #4f43ae;
-  --info: #cec9cc;
-  --warning: #211a21;
-  --danger: #de4337;
-  --light: #f8f9fa;
+  --info: #28a745;
+  --warning: #ffc107;
+  --danger: #fc0c19;
+  --light: #cec9cc;
   --dark: #211a21;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -6975,19 +6975,19 @@ a.text-success:hover, a.text-success:focus {
   color: #2e2764 !important; }
 
 .text-info {
-  color: #cec9cc !important; }
+  color: #28a745 !important; }
 
 a.text-info:hover, a.text-info:focus {
   color: #9d9499 !important; }
 
 .text-warning {
-  color: #211a21 !important; }
+  color: #ffc107 !important; }
 
 a.text-warning:hover, a.text-warning:focus {
   color: black !important; }
 
 .text-danger {
-  color: #de4337 !important; }
+  color: #fc0c19 !important; }
 
 a.text-danger:hover, a.text-danger:focus {
   color: #962219 !important; }
