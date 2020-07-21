@@ -1,17 +1,18 @@
+/* *{
+  border: 1px solid red
+} */
+
 .del{
-  background: red;
-  color: white;
-  border: none;
-  padding: 5px 9px;
+  padding: .5rem;
   border-radius: 50%;
   cursor: pointer;
-  float: right;
+  display: inline-flex;
 }
 
 .todo{
   background: #f4f4f4;
   padding: 10px;
-  border-bottom: 1px #ccc dotted;
+  border-bottom: 2px solid #211a21;
 }
 
 .is-complete{
